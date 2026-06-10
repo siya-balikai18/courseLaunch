@@ -195,7 +195,7 @@ form button {
 }
 
 footer {
-  background: #111827;
+  background: #141d32;
   padding: 30px;
   text-align: center;
   margin-top: 50px;
@@ -221,7 +221,7 @@ footer {
 
 .close {
   float: right;
-  font-size: 30px;
+  font-size: 32px;
   cursor: pointer;
 }
 
